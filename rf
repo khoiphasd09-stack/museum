@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Bảo tàng 3D 54 Dân tộc</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="info">
+    <h2 id="ten"></h2>
+    <p id="mota"></p>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/three@0.158/build/three.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.158/examples/js/controls/PointerLockControls
